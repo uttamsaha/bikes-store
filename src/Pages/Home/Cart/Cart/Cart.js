@@ -6,11 +6,15 @@ const Cart = (props) => {
   // const {cart} = props.cart;
    const {cart} = props;
    const {setCart} = props;
+
    const deleteItem = item => {
     const updatedCart = cart?.filter(x => x !== item);
     setCart(updatedCart);
     console.log("updated cart",updatedCart);
-
+  }
+  //clear cart function
+  const clearCart = () => {
+    setCart([]);
   }
   console.log("cart inside props",props);
   return (
@@ -22,7 +26,7 @@ const Cart = (props) => {
       }
       <hr />
       {/* <p>items length{cart?.length}</p> */}
-      <button className='clear-cart-btn'>Clear Cart</button>
+      <button className='clear-cart-btn' onClick={clearCart}>Clear Cart</button>
     </div>
   )
 }
