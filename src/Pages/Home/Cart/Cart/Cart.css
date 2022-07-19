@@ -1,0 +1,7 @@
+.cart h2{
+    margin-top: 50px;
+}
+.cart hr{
+    /* background-color: crimson; */
+    border: 1px solid crimson;
+}

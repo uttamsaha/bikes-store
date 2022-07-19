@@ -1,0 +1,15 @@
+.item-container{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    margin-top: 30px;
+    gap: 20px;
+    background-color: rgba(165, 42, 42, 0.625);
+    border-radius: 10px;
+}
+.item-container img{
+    width: 60px;
+    background-color: transparent;
+    /* display: flex; */
+    border-radius: 50%;
+}
