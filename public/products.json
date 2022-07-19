@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name":"Yamaha R15S",
+        "price": 17150,
+        "img": "https://i.ibb.co/X4W9w8n/1.jpg"
+    },
+    {
+        "id": 2,
+        "name":"TVS Apache RTR 160",
+        "price": 14110,
+        "img": "https://i.ibb.co/3SRLjht/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Hero Splendor Plus",
+        "price": 161150,
+        "img": "https://i.ibb.co/S53vK3p/3.jpg"
+    },
+    {
+        "id": 4,
+        "name":"TVS Apache RTR 180",
+        "price": 15110,
+        "img": "https://i.ibb.co/z25PSKG/4.jpg"
+    },
+    {
+        "id": 5,
+        "name":"Suzuki Y89",
+        "price": 231110,
+        "img": "https://i.ibb.co/YZ93rDz/5.jpg"
+    },
+    {
+        "id": 6,
+        "name":"Suzuki RTR 100",
+        "price": 20030,
+        "img": "https://i.ibb.co/kM3MzmG/6.jpg"
+    },
+    {
+        "id": 7,
+        "name":"Yamaha 98T 10V",
+        "price": 200099,
+        "img": "https://i.ibb.co/YDhNT08/7.jpg"
+    },
+    {
+        "id": 8,
+        "name":"Yamaha 896TV",
+        "price": 300061,
+        "img": "https://i.ibb.co/Dzr6FjH/9.jpg"
+    },
+    {
+        "id": 9,
+        "name":"Triumph 12T",
+        "price": 1000700,
+        "img": "https://i.ibb.co/ck3nxKP/10.jpg"
+    },
+    {
+        "id": 10,
+        "name":"Triumph 69 Bike",
+        "price": 100010,
+        "img": "https://i.ibb.co/fvyG4bk/11.jpg"
+    },
+    {
+        "id": 11,
+        "name":"Triumph RTR",
+        "price": 100095,
+        "img": "https://i.ibb.co/S53vK3p/3.jpg"
+    },
+    {
+        "id": 12,
+        "name":"BlRoyal Enfield 58T",
+        "price": 100030,
+        "img": "https://i.ibb.co/CQjWh1R/12.jpg"
+    }
+]
