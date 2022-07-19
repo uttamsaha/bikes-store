@@ -13,9 +13,10 @@
 
 }
 .cart-container{
+    padding-left: 30px;
     position: sticky;
     top: 0;
     background-color: #E7E7E7;
-    height: 950px;
+    height: 1000px;
     border-radius: 8px;
 }

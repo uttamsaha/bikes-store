@@ -17,7 +17,7 @@ const Products = () => {
             }
         </div>
         <div className='cart-container'>
-            <h1>cart details</h1>
+            <h2>Selected Bikes</h2>
         </div>
     </div>
   )
